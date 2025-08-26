@@ -1,0 +1,12 @@
+
+let x = 1;
+console.log(+x);
+
+let y = -2;
+console.log(+y);
+
+console.log(+ true);
+console.log(+ "");
+
+
+
